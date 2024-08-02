@@ -95,9 +95,6 @@
 <p  align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimaster-dev&layout=compact&theme=radical&hide_border=true" alt="Star's Top Languages" width="50%" />
 </p>
-<p  align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dawn0123&show_icons=true&locale=en" alt="aimaster-dev" width="50%"  />
-</p>
 <p  align="center">  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimaster-dev&" alt="aimaster-dev" width="50%"  />
 </p>
