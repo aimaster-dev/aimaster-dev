@@ -2,7 +2,6 @@
 
 ### - 👋 I'm an innovative and passionate `Python` developer.
 ### - 👀 I’m interested in `Machine Learning` especially `Deep Learning`.
-### - 🌱 I’m currently learning `Llama2`.
 ### - 💞️ I’m looking to collaborate on `Innovative Deep Learning Team`.
 
 ❤ _Beautiful is better than ugly._
