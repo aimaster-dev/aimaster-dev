@@ -4,10 +4,10 @@
 ### - 👀 I’m interested in `Machine Learning` especially `Deep Learning`.
 ### - 💞️ I’m looking to collaborate on `Innovative Deep Learning Team`.
 
-❤ _Beautiful is better than ugly._
+❤ _You don't have to be great to start, but you have to start to be great._
+<br>❤ _Beautiful is better than ugly._
 <br>❤ _Knowing is not enough; we must apply. Willing is not enough; we must do._
 <br>❤ _Explicit is better than implicit._
-<br>❤ _You don't have to be great to start, but you have to start to be great._
 <br>❤ _Simple is better than complex._
 <br>❤ _Complex is better than complicated._
 <br>❤ _Flat is better than nested._
