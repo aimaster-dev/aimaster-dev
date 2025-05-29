@@ -11,12 +11,12 @@
 ### 💬 My Engineering Philosophy:
 
 > ❤️ *You don’t have to be great to start, but you have to start to be great.*
-<br>> ❤️ *Beautiful is better than ugly.*
-<br>> ❤️ *Simple is better than complex.*
-<br>> ❤️ *Readability counts.*
-<br>> ❤️ *Errors should never pass silently.*
-<br>> ❤️ *Now is better than never.*
-<br>> ❤️ *An algorithm must be seen to be believed.*
+<br> ❤️ *Beautiful is better than ugly.*
+<br> ❤️ *Simple is better than complex.*
+<br> ❤️ *Readability counts.*
+<br> ❤️ *Errors should never pass silently.*
+<br> ❤️ *Now is better than never.*
+<br> ❤️ *An algorithm must be seen to be believed.*
 
 *Adapted from The Zen of Python — and principles I live by.*
 
