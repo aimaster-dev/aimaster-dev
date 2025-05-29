@@ -21,7 +21,7 @@
 *Adapted from The Zen of Python — and principles I live by.*
 
 ---
----
+
 ## 📫 Connect With Me
 🔗 Open to collaborations and new opportunities!
 
@@ -42,7 +42,6 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
