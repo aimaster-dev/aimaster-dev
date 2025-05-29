@@ -2,7 +2,7 @@
 
 ### 🚀 I'm a passionate **AI/ML Engineer**, **Blockchain Developer**, and **Full-Stack Engineer**.
 
-* 💻 **Languages I use daily:** `Python`, `Go`, `JavaScript`, `php`, `Rust`, and more.
+* 💻 **Languages I use daily:** `Python`, `Go`, `JavaScript`, `typeScript`, `php`, `Rust`, and more.
 * 🧠 I'm especially interested in **Machine Learning** — with a focus on `Deep Learning` and real-world AI applications.
 * 🤝 I'm looking to **collaborate on innovative deep learning teams** and forward-thinking tech projects.
 
