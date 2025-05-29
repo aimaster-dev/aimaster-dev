@@ -21,7 +21,7 @@
 *Adapted from The Zen of Python — and principles I live by.*
 
 ---
-
+---
 ## 📫 Connect With Me
 🔗 Open to collaborations and new opportunities!
 
