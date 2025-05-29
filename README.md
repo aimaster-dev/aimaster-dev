@@ -1,7 +1,3 @@
-Got it! Here's a more polished and professional version of your self-introduction that reflects your **multi-language expertise** while keeping the enthusiasm and philosophy you shared:
-
----
-
 # 👋 Hi, I'm an Innovative Engineer
 
 ### 🚀 I'm a passionate **AI/ML Engineer**, **Blockchain Developer**, and **Full-Stack Engineer**.
@@ -15,12 +11,12 @@ Got it! Here's a more polished and professional version of your self-introductio
 ### 💬 My Engineering Philosophy:
 
 > ❤️ *You don’t have to be great to start, but you have to start to be great.*
-> ❤️ *Beautiful is better than ugly.*
-> ❤️ *Simple is better than complex.*
-> ❤️ *Readability counts.*
-> ❤️ *Errors should never pass silently.*
-> ❤️ *Now is better than never.*
-> ❤️ *An algorithm must be seen to be believed.*
+<br>> ❤️ *Beautiful is better than ugly.*
+<br>> ❤️ *Simple is better than complex.*
+<br>> ❤️ *Readability counts.*
+<br>> ❤️ *Errors should never pass silently.*
+<br>> ❤️ *Now is better than never.*
+<br>> ❤️ *An algorithm must be seen to be believed.*
 
 *Adapted from The Zen of Python — and principles I live by.*
 
