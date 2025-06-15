@@ -18,7 +18,7 @@
 </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnotherRusty&" alt="AnotherRusty" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimaster-dev&" alt="aimaster-dev" /></p>
 
 ### 💬 My Engineering Philosophy:
 
