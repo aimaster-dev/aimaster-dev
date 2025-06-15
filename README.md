@@ -20,6 +20,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimaster-dev&" alt="aimaster-dev" /></p>
 
+## 🔗 Github Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AnotherRusty&theme=darkhub">
+</p>
+
 ### 💬 My Engineering Philosophy:
 
 > ❤️ *You don’t have to be great to start, but you have to start to be great.*
