@@ -7,6 +7,7 @@
 * 🤝 I'm looking to **collaborate on innovative deep learning teams** and forward-thinking tech projects.
 
 ---
+### 💬 My Github Journey:
 
 ![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aimaster-dev&theme=radical&hide_border=true) <br/> <br/> 
 <p>
