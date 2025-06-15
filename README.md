@@ -123,6 +123,13 @@
 <img src="https://github-profile-trophy.vercel.app/?username=aimaster-dev&theme=darkhub">
 </p>
 
+![Rust](https://img.shields.io/badge/code-Rust-orange?logo=rust)
+![Blockchain](https://img.shields.io/badge/tech-Blockchain-4caf50)
+![Smart Contracts](https://img.shields.io/badge/focus-Smart%20Contracts-blueviolet)
+![Merkle Tree](https://img.shields.io/badge/concept-Merkle%20Tree-yellow)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![Build with ❤️](https://img.shields.io/badge/built%20with-%E2%9D%A4-red)
 <!---
 aimaster-dev/aimaster-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
