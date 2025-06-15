@@ -8,11 +8,11 @@
 
 ---
 
-![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnotherRusty&theme=radical&hide_border=true) <br/> <br/> 
+![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aimaster-dev&theme=radical&hide_border=true) <br/> <br/> 
 <p>
-<a href="https://github.com/AnotherRusty">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnotherRusty&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnotherRusty&layout=compact&langs_count=8&theme=blue-green"/>
+<a href="https://github.com/aimaster-dev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aimaster-dev&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aimaster-dev&layout=compact&langs_count=8&theme=blue-green"/>
 
 
 </a>
