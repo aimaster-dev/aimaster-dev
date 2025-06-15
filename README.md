@@ -20,11 +20,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimaster-dev&" alt="aimaster-dev" /></p>
 
-## 🔗 Github Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AnotherRusty&theme=darkhub">
-</p>
-
 ### 💬 My Engineering Philosophy:
 
 > ❤️ *You don’t have to be great to start, but you have to start to be great.*
@@ -121,6 +116,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="48" height="48" alt="matlab" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="48" height="48" alt="matlab" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="gitlab" />
+</p>
+
+## 🔗 Github Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aimaster-dev&theme=darkhub">
 </p>
 
 <!---
