@@ -12,7 +12,7 @@
 <p>
 <a href="https://github.com/aimaster-dev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aimaster-dev&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aimaster-dev&layout=compact&langs_count=10&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aimaster-dev&layout=compact&langs_count=12&theme=blue-green"/>
 
 
 </a>
