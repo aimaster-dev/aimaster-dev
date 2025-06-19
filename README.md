@@ -19,8 +19,6 @@
 </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimaster-dev&" alt="aimaster-dev" /></p>
-
 ### 💬 My Engineering Philosophy:
 
 > ❤️ *You don’t have to be great to start, but you have to start to be great.*
